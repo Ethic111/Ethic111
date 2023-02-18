@@ -1,0 +1,3 @@
+ pip install flask
+ pip install flask hashids  OR   python3 -m pip install hashids   OR   python -m pip install hashids 
+pip list
